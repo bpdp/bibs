@@ -7,6 +7,12 @@ I put the license "Creative Commons - Attribution-NonCommercial-NoDerivs 3.0 Unp
 
 [<img src="http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" />](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US)
 
+Contents
+========
+
+* *web--soft-eng--semiotics-ISResearch.bib*: Web, Software Engineering, Semiotics, and Information Systems Research.
+* *question-answering.bib*: Question Answering system.
+
 Author
 ======
 
